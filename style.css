@@ -1,0 +1,15 @@
+/*
+ Projeto Web 
+*/
+
+body {
+    font-size: 30px;
+    background-color: #FFF;
+    display: flex;
+    justify-content: center;
+    color: aqua;
+}
+
+h1{
+    margin: 15px;
+}
